@@ -13,6 +13,9 @@
    3D Geometry Grid
    Divertor Configuration
    Stiffness Equation
+
+   ![图片描述](./PESTvsBOOZvsHAMA_hl3.pdf)
+   
    ![contents](./PESTvsBOOZvsHAMA_hl3.pdf)
    <img src="https://github.com/mengheerguotou/eccpf/edit/main/PESTvsBOOZvsHAMA_hl3.pdf" alt="Demo" width="800">
 
