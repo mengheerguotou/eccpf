@@ -1,14 +1,12 @@
 # eccpf
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-!  DATE: 2024-09-01
-!  PROGRAMMER: Luo Yang
-!  EMAIL: mengheerguotou@gmail.com
-!
-!  INTRODUCTION:
-!  This is the manual file for ECCPH
-!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#  DATE: 2024-09-01
+#
+#  EMAIL: mengheerguotou@gmail.com
+#
+#  INTRODUCTION:
+#  This is the manual file for ECCPH
+#
+#
 
    ECCPF ( Edge Curvilinear Coordinate & Perturbed Field )
    High Anisotropic Transport of Plasma
