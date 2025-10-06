@@ -14,6 +14,8 @@
    Divertor Configuration
    Stiffness Equation
 
+   <img src="https://github.com/mengheerguotou/eccpf/edit/main/PESTvsBOOZvsHAMA_hl3.pdf" alt="Demo" width="600">
+
 
 20221129
 
